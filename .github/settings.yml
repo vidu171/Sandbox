@@ -5,7 +5,7 @@ repository:
   topics: probot-app, github-app, test
   has_wiki: false
 labels:
-  - name: new
+  - name: new1
     color: CC0000
   - name: feature
     color: 336699
