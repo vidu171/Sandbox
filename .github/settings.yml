@@ -1,6 +1,6 @@
 repository:
   name: probot-test
-  description: my testing repo for probot applications. Keep it clean, okay? testing 123
+  description: my testing repo for probot applications. Keep it clean, okay? testing 1234
   homepage: https://github.com/vidu171/settings
   topics: probot-app, github-app, test
   has_wiki: false
