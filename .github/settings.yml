@@ -1,8 +1,8 @@
 repository:
-  name: probot-test
-  description: my testing repo for probot applications. Keep it clean, okay? testing 1234567
+  name: TEst Playgroung
+  description: Sandbox repo for probot applications. Keep it clean. Or Maybe not. Waba lubba dub dub 1234567
   homepage: https://github.com/vidu171/settings
-  topics: probot-app, github-app, test
+  topics: Sandbox, waba-luba-dub-dub, test
   has_wiki: false
 labels:
   - name: test
